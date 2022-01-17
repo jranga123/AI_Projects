@@ -1,4 +1,4 @@
-# a1
+# AI_Projects
 
 ## Approach to Part 1: The 2021 Puzzle
 
